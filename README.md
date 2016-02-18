@@ -2,7 +2,7 @@
 
 - Código realizado mediante **programación por parejas**. 
 - Cada ejercicio ha se ha desarrollado con distintos compañeros.
-- Programas desarrollados con **Test-driven development (TDD)**.
+- Programas desarrollados con *Test-driven development (TDD)*.
 - Cada ejercicio esta planteado para aprender nuevos conceptos y tecnicas de la programacion.
 
 ## Recursos
